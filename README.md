@@ -55,7 +55,7 @@ As is common with embedded development, there is a configuration file in `includ
 
 ## Final Tips
 
-I recommend building these scripts in a virtual machine on your machine and using your favorite text editor to modify them. Examples of editors used for development include Eclipse and Visual Studio Code, but you can use any text editor you prefer.
+I recommend building these scripts in a virtual machine on your laptop/desktop and to use your favorite text editor to edit the source code. Examples of editors used for development include Eclipse and Visual Studio Code since they allow you to navigate easily within a large project. Of course, you can use any text editor you prefer.
 
 I wish you a lot of fun with this exercise.
 
